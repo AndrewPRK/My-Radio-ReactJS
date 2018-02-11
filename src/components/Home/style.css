@@ -1,0 +1,29 @@
+.home_img {
+    width: 90%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 0;
+    left: 10%;
+    z-index: -1;
+}
+.sign_in {
+    position: absolute;
+    left: 85%;
+    top: 20px;    
+    background-color: rgba(10,10,10,0);
+    color: rgba(255, 255, 255, 0.5);
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    width: 10%;
+    height: 25px;
+    border-radius: 5px;
+}
+.sign_in:hover {
+    border: 2px solid rgba(255, 255, 255, 0.9   );
+    color: rgba(255, 255, 255, 0.9);
+    cursor: pointer;
+}
+.home-page{
+    overflow: hidden;
+    margin-bottom:-1%; 
+}

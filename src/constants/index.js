@@ -1,0 +1,5 @@
+export const SELECTED = "SELECTED"
+export const LOAD_RADIO_LIST = "LOAD_RADIO_LIST"
+export const START = "START"
+export const SUCSSES = "SUCSSES"
+export const FAIL = "FAIL"

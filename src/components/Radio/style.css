@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.radio {
+    width: 265px;
+    height:184px;
+    margin-bottom: 10px;
+    float: left;
+    text-align: center;
+}
+.radio a {
+    text-decoration:none;
+}
+.names {
+ margin-bottom: 6px;
+}
+
+.imgs {
+    cursor: pointer;
+    width: 90%;
+    -webkit-transition: -webkit-transform .2s;
+    transition: transform .3s;
+}
+
+.radio_list {
+    padding: 4% 6% 0 6%;
+    margin-top: 2%;
+    overflow: hidden;
+}
+
+.imgs:hover {
+    -webkit-transform: scale(1.05, 1.05);
+    transform: scale(1.05, 1.05);
+}
+.radiolist-container{
+    margin-left: 10%;
+    width: 90%;
+    min-width: 700px;
+    overflow: hidden;
+}
+.radioListHeader_img{
+    width: 90%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 10%;
+    z-index: -1;
+    min-width: 700px;
+}
+.radiolist-loader{
+    margin: 25% auto;
+    width: 200px;
+}
+.not-found{
+    margin:13% 0 10% 43%;
+}
+

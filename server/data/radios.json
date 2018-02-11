@@ -1,0 +1,83 @@
+ {
+    "station1": {
+      "name": "Euro Hits",
+      "musicStyle": "Dance",
+      "description":"",
+      "img": "night-vintage-music-bokeh.jpg",
+      "playerImg":"dance_music_player.jpg",
+      "url": "/station1",
+      "source":"http://ic2.101.ru:80/c16_13?userid=0&amp;setst=vhurqkbp7ffqgi00kl7hjl5mr2&amp;tok=13581210N0Tkm%2FjEeJJTSBz1gehPnQ%3D%3D2&amp;city=283094"
+    },
+    "station2": {
+      "name": "Радио Puls Radio Dance",
+      "musicStyle": "Dance",
+      "img": "black-and-white-music-headphones-life.jpg",
+      "playerImg":"dance_music_player.jpg",
+      "url": "/station2",
+      "source":"http://icecast.pulsradio.com/pulsHD.mp3"
+    },
+      "station3": {
+        "name": "Хит FM",
+        "musicStyle": "Dance",
+        "img": "man-person-wall-music.jpg",
+        "playerImg":"dance_music_player.jpg",
+        "url": "/station3",
+        "source": "http://icecast.radiohitfm.cdnvideo.ru/hit.mp3"
+      },
+      "station4": {
+        "name": "Радио NPO FunX Dance",
+        "musicStyle": "Dance",
+        "img": "pexels-photo-96380.jpg",
+        "playerImg":"dance_music_player.jpg",
+        "url": "/station4",
+        "source": "http://icecast.omroep.nl/funx-dance-bb-mp3"
+      },
+      "station5": {
+        "name": "Радио VTSU - Dance",
+        "musicStyle": "Dance",
+        "img": "pexels-photo-196652.jpg",
+        "playerImg":"dance_music_player.jpg",
+        "url": "/station5",
+        "source": "http://vtsu.org.ua:8000/vtsu-dance"
+      },
+      "station6": {
+        "name": "RADIO ECHO",
+        "musicStyle": "Dance",
+        "img": "pexels-photo-373918.jpg",
+        "playerImg":"dance_music_player.jpg",
+        "url": "/station6",
+        "source": "http://www.online.radioecho.ru:8000/live1"
+      },
+      "station7": {
+        "name": "Радио Contact Dance",
+        "musicStyle": "Dance",
+        "img": "pexels-photo-374703.jpg",
+        "playerImg":"dance_music_player.jpg",
+        "url": "/station7",
+        "source": "http://5.255.85.19/contactdance"
+      },
+      "station8": {
+        "name": "Радио Power FM Dance",
+        "musicStyle": "Dance",
+        "img": "pexels-photo-374777.jpg",
+        "playerImg":"dance_music_player.jpg",
+        "url": "/station8",
+        "source": "http://radio.powerdance.ru:8018/power"
+      },
+      "station9": {
+        "name": "Radio ROKS",
+        "musicStyle": "Rock",
+        "img": "RadioROKS.jpg",
+        "playerImg":"rock_music_player.jpg",
+        "url": "/station9",
+        "source": "http://online-radioroks.tavrmedia.ua/RadioROKS"
+      },
+      "station10": {
+        "name": "Electro House",
+        "musicStyle": "Electro",
+        "img": "electro_house.jpg",
+        "playerImg":"electro_music_player.jpg",
+        "url": "/station10",
+        "source": "http://music.myradio.ua/Electro-House128.mp3"
+      }
+}

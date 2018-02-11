@@ -1,0 +1,32 @@
+.pagination {
+    width: 100%;
+    text-align: center;
+}
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.pagination ul {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+.pagination ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 3px 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+}
+.pagination a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+.pagination a {
+    transition: background-color .3s;
+    cursor: pointer;
+}
